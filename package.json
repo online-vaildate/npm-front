@@ -1,0 +1,22 @@
+{
+  "name": "tsdadkaestcat",
+  "version": "1.0.0",
+  "description": "这是一个测试用的",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/online-vaildate/npm-front.git"
+  },
+  "keywords": [
+    "vinkdong"
+  ],
+  "author": "vink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/online-vaildate/npm-front/issues"
+  },
+  "homepage": "https://github.com/online-vaildate/npm-front#readme"
+}
